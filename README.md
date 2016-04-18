@@ -11,7 +11,7 @@
 
 ### Description of the project
 
-Instruction to Install, config and to run the framework
+Application to pay different type of tickets
 
 Author : 
 Jayabhanu (www.salceforce.com)
